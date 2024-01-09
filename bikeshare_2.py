@@ -102,7 +102,7 @@ def trip_duration_stats(df):
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
-    print('\n Calculating User Statistics...\n')
+    print('\n Calculating User Statistics using dynamic values...\n')
     start_time = time.time()
 
     # Display counts of user types
@@ -135,3 +135,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+Print("this is a udacity test")
