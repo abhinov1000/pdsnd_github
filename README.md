@@ -1,8 +1,7 @@
 ### Date created
 1/9/2024
 
-### Project Title
-Udacity GIT Project Submission
+# Post your Work on GitHub
 
 ### Description
 Cloning a Repository in local and carrying several tasks as listed in the document
