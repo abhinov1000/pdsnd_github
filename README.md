@@ -1,7 +1,7 @@
 ### Date created
 1/9/2024
 
-# Post your Work on GitHub
+# Post your Work on GitHub for Project
 
 ### Description
 Cloning a Repository in local and carrying several tasks as listed in the document
