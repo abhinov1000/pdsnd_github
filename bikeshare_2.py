@@ -107,7 +107,7 @@ def user_stats(df):
 
     # Display counts of user types
 
-
+    Print("this is a udacity test and is updated as per the requirements")
     # Display counts of gender
 
 
@@ -136,4 +136,4 @@ def main():
 if __name__ == "__main__":
 	main()
 
-Print("this is a udacity test and is updated as per the requirements")
+
