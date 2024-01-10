@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.This is a dymanic version of the code and can take the values in lower and upper caps
+    Asks user to specify a city, month, and day to analyze.This is a dymanic version of the code and can take the values in lower and upper caps so that the user can use the input both in lower and upper case
 
     Returns:
         (str) city - name of the city to analyze
@@ -136,4 +136,4 @@ def main():
 if __name__ == "__main__":
 	main()
 
-Print("this is a udacity test")
+Print("this is a udacity test and is updated as per the requirements")
